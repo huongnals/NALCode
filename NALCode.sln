@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OrderProcessing", "OrderProcessing\OrderProcessing.fsproj", "{F60A9728-100F-4EEE-A5C4-F73CAF750DAD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OrderProcessingTest", "OrderProcessingTest\OrderProcessingTest.fsproj", "{A56B7BA0-F800-452E-8808-A799CDA61E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60A9728-100F-4EEE-A5C4-F73CAF750DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60A9728-100F-4EEE-A5C4-F73CAF750DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60A9728-100F-4EEE-A5C4-F73CAF750DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60A9728-100F-4EEE-A5C4-F73CAF750DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56B7BA0-F800-452E-8808-A799CDA61E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56B7BA0-F800-452E-8808-A799CDA61E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56B7BA0-F800-452E-8808-A799CDA61E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56B7BA0-F800-452E-8808-A799CDA61E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
